@@ -13,3 +13,5 @@ run `cd ..`
 run `npm install nodemon -g`
 
 run `nodemon index.js`
+
+Go to http://localhost:3001
